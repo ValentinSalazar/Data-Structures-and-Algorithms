@@ -17,7 +17,4 @@ def main():
     numberTyped = typeAnumber()
     listCreated = createList(numberTyped)
     print(listCreated)
-    
-    
-
 main()
